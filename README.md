@@ -1,1 +1,1 @@
-# Stock-Erdos
+# Predicting the S&P 500

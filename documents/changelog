@@ -2,6 +2,6 @@
 
 2021/05/17 11:30am Shelby: Updated the documents README with a description of each document and our To-Do list. Over the weekend found the SP 500 daily data, which I believe Hao uploaded (?).
 
-2021/05/21 11:00am Hao: Based on Shelby's great work on data preprocessing, I replaced p/e (price to earning) ratio by eps, since eps (earning per share) is not directly associated to the stock price (market index), which is a better objective measurement for earnings of S&P 500 than p/e. Shelby's original work is saved in another file. All in the scratch folder.
+2021/05/21 11:00am Hao: Based on Shelby's great work on data preprocessing, I replaced p/e (price to earning) ratio by eps, since eps (earning per share) is not directly associated to the stock price (market index), which is a better objective measurement for earnings of S&P 500 than p/e. Shelby's original work is saved in another file. All in the scratch folder. Data for sp500 with additional columns are now in the data folder.
 
 Plus, I really want to add fed total assets, even if provides less data, since fed total assets have become a really important indicator for Fed's Quantitive Easing policy creating a long term bull market since 2008. But I haven't figured out how after hours of trying.

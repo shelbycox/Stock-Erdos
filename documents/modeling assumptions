@@ -1,1 +1,4 @@
 Keep track of what the assumptions are and WHY they are made
+
+Our data comes in different time intervals. For example, SP500 prices are only reported on trading days, bond yields are reported monthly, federal assets is reported weekly, and p/e ratio is reported quarterly.
+We assume in our models that investors make decisions based on (and hence that markets are driven by) the last available report of these data.

@@ -7,3 +7,5 @@
 Plus, I really want to add fed total assets, even if provides less data, since fed total assets have become a really important indicator for Fed's Quantitive Easing policy creating a long term bull market since 2008. But I haven't figured out how after hours of trying.
 
 2021/05/24 11:00am Shelby: Added div and eps to the total_df, (interpolated to trading days).
+
+2021/05/27 8:00pm Shelby: Added readme file to new data folder.

@@ -3,7 +3,8 @@
 ## Scenario 1
 
 We try to predict future S&P 500 prices using past index prices.
-We ran several models at the beginning of the project and included the following in our final code: FB Prophet, ARIMA, and a linear regression.
+We ran several models at the beginning of the project and included the following in our final code: FB Prophet, ARIMA, and a random forest model.
+The most successsful model at this stage was the FB Prophet model.
 
 ## Scenario 2
 

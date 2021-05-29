@@ -6,19 +6,19 @@ We studied a couple of machine learning models for and improved performance of t
 ​
 Our model is able to reduce the Mean Squared Error and reflect the COVID19 period market crash and rebound when that period of time is included. 
 ​
-# Team: B(eat)-T(he)-W(all) Street (Erd\H{o}s Institute Data Science Boot Camp 2021)
+## Team: B(eat)-T(he)-W(all) Street (Erd\H{o}s Institute Data Science Boot Camp 2021)
 ​
 (sorted alphabetically by last names) Shelby Cox, Yuqing Dai,  Malavika Mukundan, Qiang Wu, and Hao Xing
 ​
-# 5-min Video Presentation
+## 5-min Video Presentation
 ​
 https://youtu.be/dAVS5EECk30
 ​
-# Project Website
+## Project Website
 ​
 https://sites.google.com/view/btw/home
 ​
-# LISENCE
+## LISENCE
 ​
 Copyright <2021> <COPYRIGHT Shelby Cox, Yuqing Dai,  Malavika Mukundan, Qiang Wu, and Hao Xing>
 ​

@@ -12,12 +12,19 @@ It includes the following data:
 -- 10-year treasury bond yield (tby)
 
 -- Federal funding rate (ffr)
+
 -- Total Federal assets (fta)
+
 -- Earnings-per-share (eps)
+
 -- Dividend yield (div)
+
 -- Unemployment rate (une)
+
 -- WTI Oil Index (wti)
+
 -- Producer Price Index (ppi)
+
 -- Retail and Food Services Sales (rfs)
 
 More information on each dataset is included below.
@@ -28,14 +35,23 @@ The data we use in scenario 1 model comparison.
 It includes the following data:
 
 -- S&P 500 open/close/high/low prices
+
 -- 10-year treasury bond yield (tby)
+
 -- Federal funding rate (ffr)
+
 -- Total Federal assets (fta)
+
 -- Earnings-per-share (eps)
+
 -- Dividend yield (div)
+
 -- Unemployment rate (une)
+
 -- WTI Oil Index (wti)
+
 -- Producer Price Index (ppi)
+
 -- Retail and Food Services Sales (rfs)
 
 More information on each dataset is included below.
@@ -45,16 +61,27 @@ More information on each dataset is included below.
 The data we use in scenario 2 (before covid time). It includes the following data:
 
 -- S&P 500 Closing price (y)
+
 -- 10-year treasury bond yield (tby)
+
 -- Federal funding rate (ffr)
+
 -- Total Federal assets (fta)
+
 -- Earnings-per-share (eps)
+
 -- Dividend yield (div)
+
 -- Unemployment rate (une)
+
 -- WTI Oil Index (wti)
+
 -- Producer Price Index (ppi)
+
 -- Retail and Food Services Sales (rfs)
+
 -- FB Prophet predction (fbsp)
+
 -- Difference between actual S&P 500 Price and FB Prophet predction (diff)
 
 More information on each dataset is included below.
@@ -64,16 +91,27 @@ More information on each dataset is included below.
 The data we use in scenario 2 (include covid time). It includes the following data:
 
 -- S&P 500 Closing price (y)
+
 -- 10-year treasury bond yield (tby)
+
 -- Federal funding rate (ffr)
+
 -- Total Federal assets (fta)
+
 -- Earnings-per-share (eps)
+
 -- Dividend yield (div)
+
 -- Unemployment rate (une)
+
 -- WTI Oil Index (wti)
+
 -- Producer Price Index (ppi)
+
 -- Retail and Food Services Sales (rfs)
+
 -- FB Prophet predction (fbsp)
+
 -- Difference between actual S&P 500 Price and FB Prophet predction (diff)
 
 More information on each dataset is included below.

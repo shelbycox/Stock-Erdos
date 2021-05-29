@@ -1,5 +1,44 @@
 # Our Data
 
+The preprocessing file we used to create these dataframes can be found in '../Data/Data-Merge/data-merge.ipynb'.
+
+## df2
+
+The data we use in scenario 1.
+It includes the following data:
+
+-- S&P 500 open/close/high/low prices
+-- 10-year treasury bond yield (tby)
+-- Federal funding rate (ffr)
+-- Total Federal assets (fta)
+-- Earnings-per-share (eps)
+-- Dividend yield (div)
+-- Unemployment rate (une)
+-- WTI Oil Index (wti)
+-- Producer Price Index (ppi)
+-- Retail and Food Services Sales (rfs)
+
+More information on each dataset is included below.
+
+## dff2
+
+The data we use in scenario 2. It includes the following data:
+
+-- S&P 500 Closing price (y)
+-- 10-year treasury bond yield (tby)
+-- Federal funding rate (ffr)
+-- Total Federal assets (fta)
+-- Earnings-per-share (eps)
+-- Dividend yield (div)
+-- Unemployment rate (une)
+-- WTI Oil Index (wti)
+-- Producer Price Index (ppi)
+-- Retail and Food Services Sales (rfs)
+-- FB Prophet predction (fbsp)
+-- Difference between actual S&P 500 Price and FB Prophet predction (diff)
+
+More information on each dataset is included below.
+
 ### S&P 500 Market Data (sp500_df)
 
 This dataframe contains historical data for the S&P 500 index.

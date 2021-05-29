@@ -1,1 +1,1 @@
-# Predicting the S&P 500
+# Predicting the S&P 500 Close Prices

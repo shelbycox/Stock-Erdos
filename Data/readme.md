@@ -1,6 +1,6 @@
 # Our Data
 
-#### S&P 500 Market Data (sp500_df)
+### S&P 500 Market Data (sp500_df)
 
 This dataframe contains historical data for the S&P 500 index.
 
@@ -10,7 +10,7 @@ The dates range from Jan 3, 1978 to May 14, 2021. The data is recorded daily.
 
 downloaded from www.wsj.com
 
-####  Earning-Per-share (sp500eps_df)
+###  Earning-Per-share (sp500eps_df)
 
 This dataset contains the historical Earning-Per-share data for S&P 500.
 
@@ -20,7 +20,7 @@ The dates range from Jan, 1871 to Dec, 2020. The data is reported monthly (at th
 
 downloaded from https://www.quandl.com/
 
-#### Price-to-Earning Ratio Data (sp500per_df)
+### Price-to-Earning Ratio Data (sp500per_df)
 
 This dataframe contains historical price-to-earnings ratio for the S&P 500.
 
@@ -30,7 +30,7 @@ The dates range from Dec 1927 to Dec 2020. The data is recorded monthly.
 
 downloaded from https://www.quandl.com/
 
-#### Treasury Bond Yield Data (bond_df)
+### Treasury Bond Yield Data (bond_df)
 
 This dataset contains the historical bond yields for 10-year US treasury bonds.
 
@@ -40,7 +40,7 @@ The dates range from Jan 1, 1962 to May 6, 2021. The data is recorded daily.
 
 downloaded from https://fred.stlouisfed.org/
 
-#### Federal Funding Rate Data (ffr_df)
+### Federal Funding Rate Data (ffr_df)
 
 This dataset contains the historical Federal Funding Rates data.
 
@@ -50,7 +50,7 @@ The dates range from July, 1954 to April, 2021. The data is reported monthly (on
 
 downloaded from https://fred.stlouisfed.org/
 
-#### Total Federal Assets (fta_df)
+### Total Federal Assets (fta_df)
 
 This dataset contains the historical Total Federal Assets data.
 
@@ -60,7 +60,7 @@ The dates range from Dec 18, 2002 to May 12, 2021. The data is reported weekly (
 
 downloaded from https://fred.stlouisfed.org/
 
-#### Advance Retail Sales: Retail and Food Services, Total (rfs_df)
+### Advance Retail Sales: Retail and Food Services, Total (rfs_df)
 
 This dataset contains the retail sales data of U.S.
 
@@ -70,7 +70,7 @@ The dates range from January, 1871 to May 2021. The data is reported monthly (at
 
 downloaded from https://www.quandl.com
 
-#### Unemployment rates (une_df)
+### Unemployment rates (une_df)
 
 This dataset contains the historical U.S. unemployment rate data
 
@@ -80,7 +80,7 @@ The dates range from Jan 1992 to Apr 2021. The data is reported monthly (at the 
 
 downloaded from https://fred.stlouisfed.org/
 
-#### Producer Price Index of All Commodities (ppi_df)
+### Producer Price Index of All Commodities (ppi_df)
 
 This dataset contains the Producer Price Index of All Commodities
 
@@ -90,7 +90,7 @@ The dates range from Jan 1913 to Jan 2021. The data is reported monthly (at the 
 
 downloaded from https://fred.stlouisfed.org/
 
-#### NYSE ARCA oil index(nao_df)
+### NYSE ARCA oil index(nao_df)
 
 This dataset contains the NYSE ARCA oil index.
 
@@ -100,12 +100,12 @@ The columns are Date, Open, High, Low, Close
 
 downloaded from www.wsj.com
 
-#### WTI oil index (wti_df)
+### WTI oil index (wti_df)
 
 This dataset contains the WTI oil index.
 
 The dates range from 1986-01-02 to 2021-05-17
 
-The columns are DATE,DCOILWTICO
+The columns are DATE, DCOILWTICO
 
 downloaded from https://fred.stlouisfed.org/

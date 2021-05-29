@@ -8,7 +8,9 @@ The data we use in scenario 1.
 It includes the following data:
 
 -- S&P 500 close prices
+
 -- 10-year treasury bond yield (tby)
+
 -- Federal funding rate (ffr)
 -- Total Federal assets (fta)
 -- Earnings-per-share (eps)

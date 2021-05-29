@@ -9,3 +9,5 @@ Plus, I really want to add fed total assets, even if provides less data, since f
 2021/05/24 11:00am Shelby: Added div and eps to the total_df, (interpolated to trading days).
 
 2021/05/27 8:00pm Shelby: Added readme file to new data folder.
+
+2021/05/28 12:00am Shelby: Added/updated readme's for each front-facing folder. 
